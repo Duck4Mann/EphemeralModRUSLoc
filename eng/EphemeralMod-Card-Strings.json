@@ -1,0 +1,360 @@
+{
+  "theEphemeral:Strike": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "theEphemeral:Defend": {
+    "NAME": "Защита",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "theEphemeral:ReadTheStars": {
+    "NAME": "Чтение по звёздам",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! theephemeral:Прорицания."
+  },
+  "theEphemeral:ThroughTheVeil": {
+    "NAME": "Сквозь завесу",
+    "DESCRIPTION": "Наносит !D! урона. NL theephemeral:Судьба: Добавляет !M! theephemeral:Мимолётное_уклонение в руку."
+  },
+
+  "theEphemeral:ThrowBones": {
+    "NAME": "Метнуть кости",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Даёт !M! theephemeral:Прорицания."
+  },
+  "theEphemeral:StranglingMist": {
+    "NAME": "Удушающий туман",
+    "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Добавляет *Головокружение в стопку добора."
+  },
+  "theEphemeral:Silhouette": {
+    "NAME": "Силует",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет !M! theephemeral:Мимолётный_удар в руку."
+  },
+  "theEphemeral:ChillingTouch": {
+    "NAME": "Морозное прикосновение",
+    "DESCRIPTION": "Наносит !D! урона. NL Накладывает 1 Слабости за каждую theephemeral:Раскрытую Атаку.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Накладывает !M! Слабости.)"
+    ]
+  },
+  "theEphemeral:PsychicStrike": {
+    "NAME": "Удар по разуму",
+    "DESCRIPTION": "Наносит !D! урона. NL theephemeral:Судьба: Добавляет !M! theephemeral:Мимолётная_мысль в руку."
+  },
+  "theEphemeral:BlindSwipe": {
+    "NAME": "Слепая перетасовка",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы перетасовываете карты из стопки сброса в стопку добора."
+  },
+  "theEphemeral:SpectralGrasp": {
+    "NAME": "Призрачная хватка",
+    "DESCRIPTION": "Наносит !D! урона. NL theephemeral:Исчезающая !theEphemeral:SecondMagic!."
+  },
+  "theEphemeral:Omen": {
+    "NAME": "Знамение",
+    "DESCRIPTION": "Наносит !D! урона. NL theephemeral:Судьба: Накладывает !M! Уязвимости."
+  },
+  "theEphemeral:DrainSoul": {
+    "NAME": "Вытянуть душу",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Улучшает ВСЕ theephemeral:Раскрытые карты до конца боя.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Улучшает ВСЕ карты в руке, а также ВСЕ theephemeral:Раскрытые карты до конца боя."
+  },
+  "theEphemeral:Discord": {
+    "NAME": "Разлом",
+    "DESCRIPTION": "Наносит !D! урона. NL theephemeral:Энтропия."
+  },
+  "theEphemeral:VeiledEdge": {
+    "NAME": "Тайное лезвие",
+    "DESCRIPTION": "Может быть сыграна только если у вас есть theephemeral:Раскрытая Эфирная карта или если Эфирная карта в руке. NL Наносит !D! урона.",
+    "EXTENDED_DESCRIPTION": [
+      "У меня нет Эфирных карт."
+    ]
+  },
+
+  "theEphemeral:Phantaplasm": {
+    "NAME": "Фантаплазма",
+    "DESCRIPTION": "Эфирная. NL Наносит !D! урона ВСЕМ врагам. NL theephemeral:Энтропия."
+  },
+  "theEphemeral:PiercingMist": {
+    "NAME": "Пронзая туман",
+    "DESCRIPTION": "Эфирная. NL Наносит !D! урона дважды. NL Добавляет 2 *Головокружение в стопку сброса."
+  },
+  "theEphemeral:Ambush": {
+    "NAME": "Засада",
+    "DESCRIPTION": "Наносит !D! урона. NL theephemeral:Судьба: Наносит удвоенный урон."
+  },
+  "theEphemeral:Cataclysm": {
+    "NAME": "Катаклизм",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы сбрасываете 3 карты с верха стопки добора."
+  },
+  "theEphemeral:CastStones": {
+    "NAME": "Призвать камни",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! theephemeral:Прорицания. NL Если верхняя карта стопки добора Атака, сыграйте её."
+  },
+  "theEphemeral:BlindFury": {
+    "NAME": "Слепая ярость",
+    "DESCRIPTION": "Наносит !D! урона. NL Вы перетасовываете карты из стопки сброса в стопку добора, затем разыгрываете случайную Атаку из стопки добора."
+  },
+  "theEphemeral:SpectralThief": {
+    "NAME": "Призрачный вор",
+    "DESCRIPTION": "Наносит !D! урона случайной цели 2 раза. NL Даёт !M! Золота, если Казнит врага. NL theephemeral:Исчезающая !theEphemeral:SecondMagic!."
+  },
+  "theEphemeral:Degeneration": {
+    "NAME": "Дегенерация",
+    "DESCRIPTION": "Наносит !D! урона дважды. NL theephemeral:Энтропия."
+  },
+  "theEphemeral:Image": {
+    "NAME": "Отражение?",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт [E] и вы берёте карту, если использовали theephemeral:Судьбу в этом ходу."
+  },
+
+  "theEphemeral:Bladestorm": {
+    "NAME": "Шторм клинков",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам дважды. NL theephemeral:Судьба: Наносит урон ещё два раза."
+  },
+  "theEphemeral:SpiritStrike": {
+    "NAME": "Удар духа",
+    "DESCRIPTION": "Наносит !D! урона !M! раз. NL Вы берёте 1 карту. NL Вы сбрасываете 1 карту. NL Даёт !theEphemeral:SecondMagic! Силы, если эта карта была сброшена."
+  },
+  "theEphemeral:RealityFracture": {
+    "NAME": "Разрыв реальности",
+    "DESCRIPTION": "Наносит !D! урона X+1 раз. NL theephemeral:Энтропия.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона X+2 раз. NL theephemeral:Энтропия."
+  },
+  "theEphemeral:Disaster": {
+    "NAME": "Беда",
+    "DESCRIPTION": "Наносит !D! урона. NL Наносит утроенный урон, если у вас 7 theephemeral:Прорицания."
+  },
+  "theEphemeral:BurningVengeance": {
+    "NAME": "Пылающая месть",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
+  },
+  "theEphemeral:Subsume": {
+    "NAME": "Пожрать???f",
+    "DESCRIPTION": "Наносит !D! урона. NL  Даёт !M! Здоровья, если Казнит врага."
+  },
+
+  "theEphemeral:TimeSkip": {
+    "NAME": "Перемотка времени",
+    "DESCRIPTION": "Вы разыгрываете карту с верха стопки добора. NL Сжигается. NL theephemeral:Судьба: Даёт [E].",
+    "UPGRADE_DESCRIPTION": "Вы разыгрываете карту с верха стопки добора. NL theephemeral:Судьба: Даёт [E]."
+  },
+  "theEphemeral:Fade": {
+    "NAME": "Раствориться",
+    "DESCRIPTION": "Даёт !B! Защиты. NL theephemeral:Энтропия."
+  },
+  "theEphemeral:Pirouette": {
+    "NAME": "Пируэт",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Добавляет !M! theephemeral:Мимолётное_уклонение в руку."
+  },
+  "theEphemeral:Portent": {
+    "NAME": "Видения",
+    "DESCRIPTION": "Даёт !M! theephemeral:Прорицания. NL theephemeral:Судьба: Вы берёте 2 карты."
+  },
+  "theEphemeral:Delay": {
+    "NAME": "Задержка",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Вы кладёте карту из руки на верх стопки добора."
+  },
+  "theEphemeral:Remembrance": {
+    "NAME": "Воспоминание",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Вы кладёте карту из стопки сброса на верх стопки добора."
+  },
+  "theEphemeral:SpiritGuide": {
+    "NAME": "Проводник духов?",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте 1 карту. NL Вы сбрасываете 1 карту."
+  },
+  "theEphemeral:SpectralWall": {
+    "NAME": "Призрачная стена",
+    "DESCRIPTION": "Даёт !B! Защиты. NL theephemeral:Исчезающая !theEphemeral:SecondMagic!."
+  },
+
+  "theEphemeral:LostToAges": {
+    "NAME": "Потерянное в веках",
+    "DESCRIPTION": "Вы берёте !M! карт. NL Вы сжигаете карту в руке. NL Добавляет копию этой карты в стопку сброса.",
+    "UPGRADE_DESCRIPTION": "Вы берёте !M! карт. NL Вы сжигаете карту в руке. NL Добавляет копию этой карты в стопку сброса."
+  },
+  "theEphemeral:BoonOfTheSpinner": {
+    "NAME": "Дар пряжи?",
+    "DESCRIPTION": "Вы берёте 1 карту. NL Вы сбрасываете 1 карту. NL Даёт [E], если вы сбросили эту карту.",
+    "UPGRADE_DESCRIPTION": "Вы берёте 1 карту. NL Вы сбрасываете 1 карту. NL Даёт [E] [E], если вы сбросили эту карту."
+  },
+  "theEphemeral:BoonOfTheAlloter": {
+    "NAME": "Дар распределения?",
+    "DESCRIPTION": "Вы берёте 1 карту. NL Вы сбрасываете 1 карту. NL Вы берёте !M! карт, если вы сбросили эту карту.",
+    "UPGRADE_DESCRIPTION": "Вы берёте 1 карту. NL Вы сбрасываете 1 карту. NL Вы берёте !M! карт, если вы сбросили эту карту."
+  },
+  "theEphemeral:BoonOfTheInflexible": {
+    "NAME": "Дар несгибаемости?",
+    "DESCRIPTION": "Вы берёте 1 карту. NL Вы сбрасываете 1 карту. NL ВСЕ враги теряют !M! Силы в этом ходу, если вы сбросили эту карту."
+  },
+  "theEphemeral:BlindFaith": {
+    "NAME": "Слепая вера",
+    "DESCRIPTION": "Вы перетасовываете карты из стопки сброса в стопку добора. NL Добавляет !M! theephemeral:Мимолётная_мысль в руку."
+  },
+  "theEphemeral:BlindingBlock": {
+    "NAME": "Ослепляющая защита",
+    "DESCRIPTION": "Вы перетасовываете карты из стопки сброса в стопку добора. NL Даёт !B! Защиты. NL theephemeral:Судьба: Даёт на !M! больше Защиты."
+  },
+  "theEphemeral:Tasseomancy": {
+    "NAME": "Предсказание по чаю",
+    "DESCRIPTION": "Даёт !M! theephemeral:Прорицания. NL  Разыгрывает верхнюю карту из стопки добора, если эта карта - Навык. NL Сжигается."
+  },
+  "theEphemeral:RecurringNightmare": {
+    "NAME": "Повторяющийся кошмар",
+    "DESCRIPTION": "Выберите карту из стопки сброса и разыграйте её."
+  },
+  "theEphemeral:PeerThroughMists": {
+    "NAME": "Смотреть сквозь туманы",
+    "DESCRIPTION": "Вы сжигаете ВСЕ theephemeral:Раскрытые Статусы и Проклятья, а также Статусы и Проклятья в руке. Даёт !B! Защиты за каждую."
+  },
+  "theEphemeral:Dowse": {
+    "NAME": "Потушить?",
+    "DESCRIPTION": "Даёт 2 theephemeral:Прорицания. NL Добавляет !M! theephemeral:Мимолётная_мысль в руку."
+  },
+  "theEphemeral:FrigidAura": {
+    "NAME": "Морозная аура",
+    "DESCRIPTION": "Даёт !B! Защиты. NL theephemeral:Судьба: Накладывает !M! Слабости на ВСЕХ врагов."
+  },
+  "theEphemeral:Premonition": {
+    "NAME": "Предчуствие",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! theephemeral:Прорицания. NL theephemeral:Судьба: Даёт [E]."
+  },
+  "theEphemeral:Dissipate": {
+    "NAME": "Рассеять",
+    "DESCRIPTION": "Даёт !B! Защиты. NL theephemeral:Судьба: Даёт 1 Неосязаемость. NL Сжигается."
+  },
+  "theEphemeral:SpectralBinding": {
+    "NAME": "Призрачные путы",
+    "DESCRIPTION": "Враг теряет !M! Силы. NL Накладывает !M! Слабости и Уязвимости. NL theephemeral:Исчезающая !theEphemeral:SecondMagic!."
+  },
+  "theEphemeral:Revelation": {
+    "NAME": "Откровение",
+    "DESCRIPTION": "Даёт [E] [E]. NL Вы берёте !M! карты."
+  },
+  "theEphemeral:StrengthFromBeyond": {
+    "NAME": "Сила за пределами",
+    "DESCRIPTION": "Добавляет 2 theephemeral:Мимолётный_удар в руку. NL Даёт !M! Силы. NL Отнимает !M! Силы в конце вашего хода."
+  },
+  "theEphemeral:FortuneForetold": {
+    "NAME": "Предсказание Фортуны",
+    "DESCRIPTION": "Даёт [E] равную вашему theephemeral:Прорицанию."
+  },
+  "theEphemeral:Cartomancy": {
+    "NAME": "Картомантия",
+    "DESCRIPTION": "Выберите 1 из 3 случ. карт для добавления на верх стопки добора. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Выберите 1 из 3 случ. карт для добавления на верх стопки добора. NL Эта карта стоит 0 до конца боя. NL Сжигается."
+  },
+
+  "theEphemeral:Wasting": {
+    "NAME": "Трата",
+    "DESCRIPTION": "Враг теряет Силу равную вашему theephemeral:Прорицанию. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Враг теряет Силу равную вашим theephemeral:Прорицанию. NL Сжигается."
+  },
+  "theEphemeral:TemptFate": {
+    "NAME": "Соблазн судьбы",
+    "DESCRIPTION": "Вы перетасовываете карты из стопки сброса в стопку добора. NL Вы берёте !M! карты. NL Сжигается."
+  },
+  "theEphemeral:BrokenMirror": {
+    "NAME": "Сломанное зеркало",
+    "DESCRIPTION": "Выберите theephemeral:Раскрытую карту. Добавляет копию карты в руку. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Выберите theephemeral:Раскрытую карту. Добавляет копию карты в руку.",
+    "EXTENDED_DESCRIPTION": [
+      "У меня нет ??? карт."
+    ]
+  },
+  "theEphemeral:Numerology": {
+    "NAME": "Нумерология",
+    "DESCRIPTION": "Вы берёте X карт. NL Они стоят на X меньше в этом ходу. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Вы берёте X+1 карт. NL Они стоят на X меньше в этом ходу. NL Сжигается."
+  },
+  "theEphemeral:SpectralForge": {
+    "NAME": "Призрачная кузня",
+    "DESCRIPTION": "Улучшает ВСЕ ваши карты до конца боя. NL theephemeral:Исчезающая !theEphemeral:SecondMagic!.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Улучшает ВСЕ ваши карты до конца боя. NL theephemeral:Исчезающая !theEphemeral:SecondMagic!.",
+    "EXTENDED_DESCRIPTION": [
+      "У меня нет карт для улучшения."
+    ]
+  },
+  "theEphemeral:TemporalSurge": {
+    "NAME": "Временной всплеск",
+    "DESCRIPTION": "Вы разыгрываете ВСЕ theephemeral:Раскрытые Атаки и Навыки. NL Сжигается."
+  },
+
+  "theEphemeral:Murmuration": {
+    "NAME": "Мурмурация?????",
+    "DESCRIPTION": "Даёт !M! theephemeral:Прорицания в начале вашего хода.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! theephemeral:Прорицания сейчас и в начале вашего хода."
+  },
+  "theEphemeral:PhantomWings": {
+    "NAME": "Фантомные крылья",
+    "DESCRIPTION": "Даёт Защиту равную вашему theephemeral:Прорицанию в конце хода.",
+    "UPGRADE_DESCRIPTION": "Даёт Защиту равную вашим theephemeral:Прорицанию сейчас и в конце хода."
+  },
+  "theEphemeral:Clairvoyance": {
+    "NAME": "Ясновидение",
+    "DESCRIPTION": "Добавляет в руку theephemeral:Мимолётная_мысль в начале каждого хода",
+    "UPGRADE_DESCRIPTION": "Добавляет в руку theephemeral:Мимолётная_мысль сейчас и в начале каждого хода."
+  },
+  "theEphemeral:SwirlingMists": {
+    "NAME": "Кружащиеся туманы",
+    "DESCRIPTION": "Даёт !M! Защиту, когда вы вытаскиваете или Сжигаете Эфирную карту."
+  },
+  "theEphemeral:ReflectingPool": {
+    "NAME": "Отражающий бассейн???",
+    "DESCRIPTION": "Добавляет theephemeral:Мимолётный_удар в руку, когда вы разыграете Атаку без Сжигание."
+  },
+  "theEphemeral:Kismet": {
+    "NAME": "Кисмет",
+    "DESCRIPTION": "Вы берёте карту. NL Даёт !M! Защиты, когда вы перетасовываете стопку добора."
+  },
+  "theEphemeral:Maelstrom": {
+    "NAME": "Водоворот",
+    "DESCRIPTION": "Накладывает 1 Слабости и 1 Уязвимости на ВСЕХ врагов за каждые 5 сыгранных карт в один ход."
+  },
+  "theEphemeral:ImpendingDoom": {
+    "NAME": "Неотвратимая погибель",
+    "DESCRIPTION": "Наносит урон равный theephemeral:Прорицанию ВСЕМ врагам в конце хода.",
+    "UPGRADE_DESCRIPTION": "Наносит урон равный theephemeral:Прорицанию ВСЕМ врагам сейчас и в конце хода."
+  },
+  "theEphemeral:DarkContract": {
+    "NAME": "Темный контракт",
+    "DESCRIPTION": "Даёт [E] и отнимает 1 ОЗ, когда получаете theephemeral:Прорицание."
+  },
+  "theEphemeral:Soothsayer": {
+    "NAME": "Гадалка",
+    "DESCRIPTION": "theephemeral:Судьбоносные эффекты в два раза сильнее и могут активироваться ещё раз за ход."
+  },
+  "theEphemeral:GrimResolve": {
+    "NAME": "Мрачная решимость",
+    "DESCRIPTION": "Вы теряете на !M! меньше ОЗ при получении урона по здоровью."
+  },
+  "theEphemeral:ReturnToAether": {
+    "NAME": "Возвращение к Эфиру",
+    "DESCRIPTION": "Сжигает ВСЕ карты в руке в конце вашего хода.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Сжигает ВСЕ карты в руке в конце вашего хода."
+  },
+  "theEphemeral:ChaosRift": {
+    "NAME": "Ущелье хаоса",
+    "DESCRIPTION": "Увеличивает бонус от theephemeral:Энтропии на !M!."
+  },
+  "theEphemeral:SpectralPhalanx": {
+    "NAME": "Призрачная фаланга",
+    "DESCRIPTION": "Даёт !M! Силы и !M! Ловкости. NL theephemeral:Исчезающая !theEphemeral:SecondMagic!."
+  },
+  "theEphemeral:HarbingerForm": {
+    "NAME": "Облик предсказателя",
+    "DESCRIPTION": "Эфирная. NL Вы разыграете верхнюю карту стопки добора в конце каждого хода. Любой наносимый урон или любая получаемая Защита удваивается.",
+    "UPGRADE_DESCRIPTION": "Вы разыграете верхнюю карту стопки добора в конце каждого хода. Любой наносимый урон или любая получаемая Защита удваивается."
+  },
+
+  "theEphemeral:FleetingStrike": {
+    "NAME": "Мимолётный удар",
+    "DESCRIPTION": "Эфирная. NL Вы сбрасываете верхнюю карту стопки добора. NL Наносит !D! урона. NL Сжигается."
+  },
+  "theEphemeral:FleetingDodge": {
+    "NAME": "Мимолётное уклонение",
+    "DESCRIPTION": "Эфирная. NL Вы сбрасываете верхнюю карту стопки добора. NL Даёт !B! Защиты. NL Сжигается."
+  },
+  "theEphemeral:FleetingThought": {
+    "NAME": "Мимолётные мысли",
+    "DESCRIPTION": "Эфирная. NL Вы сбрасываете верхнюю карту стопки добора. NL Вы берёте 1 карту. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Эфирная. NL Вы сбрасываете верхнюю карту стопки добора. NL Вы берёте 2 карты. NL Сжигается."
+  }
+}

@@ -1,0 +1,23 @@
+{
+        "theEphemeral:PotionOfProphecy": {
+                "NAME": "Зелье Прорицания",
+                "DESCRIPTIONS": [
+                        "Даёт #b",
+                        " #yПрорицания."
+                ]
+        },
+        "theEphemeral:TemporalTonic": {
+                "NAME": "Тоник времени",
+                "DESCRIPTIONS": [
+                        "Разыгрывает верхние карты стопки добора #b",
+                        " раз."
+                ]
+        },
+        "theEphemeral:ElysianNectar": {
+                "NAME": "Райский нектар",
+                "DESCRIPTIONS": [
+                        "В этом ходу вы берёте карту, когда разыгрываете карту.",
+                        "В этом ходу вы берёте #b2 карты, когда разыгрываете карту."
+                ]
+        }
+}
