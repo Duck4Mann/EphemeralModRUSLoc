@@ -1,103 +1,103 @@
 {
         "theEphemeral:MurmurationPower": {
-                "NAME": "Murmuration",
+                "NAME": "Мурмурация?????",
                 "DESCRIPTIONS": [
-                        "At the start of your turn, gain #b",
+                        "В начале вашего хода даёт #b",
                         " #yПрорицания."
                 ]
         },
         "theEphemeral:PhantomWingsPower": {
-                "NAME": "Phantom Wings",
+                "NAME": "Фантомные крылья",
                 "DESCRIPTIONS": [
-                        "At the end of your turn, gain #yBlock equal to your #yПрорицанию.",
-                        "At the end of your turn, gain #yBlock equal to #b",
-                        " times your #yПрорицания."
+                        "В конце вашего хода даёт #yЗащиту равную вашему #yПрорицанию.",
+                        "В конце вашего хода даёт #yЗащиту равную #b",
+                        " умноженное на #yПрорицание."
                 ]
         },
         "theEphemeral:ClairvoyancePower": {
-                "NAME": "Clairvoyance",
+                "NAME": "Ясновидение",
                 "DESCRIPTIONS": [
-                        "At the start of your turn, add #b",
-                        " #yFleeting #yThought to your hand.",
-                        " #yFleeting #yThoughts to your hand."
+                        "В начале вашего хода добавляет #b",
+                        " #yМимолётную #yмысль в руку.",
+                        " #yМимолётные #yмысли в руку."
                 ]
         },
         "theEphemeral:SwirlingMistsPower": {
-                "NAME": "Swirling Mists",
+                "NAME": "Кружащиеся туманы",
                 "DESCRIPTIONS": [
-                        "Whenever you draw or #yExhaust an #yEthereal card, gain #b",
-                        " #yBlock."
+                        "При вытаскивании или #yСжигании #yЭфирной карты даёт #b",
+                        " #yЗащиты."
                 ]
         },
         "theEphemeral:ReflectingPoolPower": {
-                "NAME": "Reflecting Pool",
+                "NAME": "Отражение в воде",
                 "DESCRIPTIONS": [
-                        "Whenever you play an #yAttack without #yExhaust, add #b",
-                        " #yFleeting #yStrike to your hand.",
-                        " #yFleeting #yStrikes to your hand."
+                        "При разыгрывании #yАтаки без #yСжигается даёт #b",
+                        " #yМимолётный #yудар в руку.",
+                        " #yМимолётные #yудары в руку."
                 ]
         },
         "theEphemeral:KismetPower": {
-                "NAME": "Kismet",
+                "NAME": "Кисмет",
                 "DESCRIPTIONS": [
-                        "Whenever you shuffle your draw pile, draw #b",
-                        " card and gain #b",
-                        " cards and gain #b",
-                        " #yBlock."
+                        "При перетасовке стопки добора вы берёте #b",
+                        " карты и получаете #b",
+                        " карты и получаете #b",
+                        " #yЗащиты."
                 ]
         },
         "theEphemeral:MaelstromPower": {
-                "NAME": "Maelstrom",
+                "NAME": "Водоворот",
                 "DESCRIPTIONS": [
-                        "If you play #b",
-                        " more card this turn, apply #b",
-                        " more cards this turn, apply #b",
-                        " #yWeak and #b",
-                        " #yVulnerable to ALL enemies."
+                        "Если вы разыграли больше #b",
+                        " карт за этот ход. Накладывает #b",
+                        " карт за этот ход. Накладывает #b",
+                        " #yСлабости и #b",
+                        " #yУязвимости ВСЕМ врагам."
                 ]
         },
         "theEphemeral:ImpendingDoomPower": {
-                "NAME": "Impending Doom",
+                "NAME": "Неотвратимая погибель",
                 "DESCRIPTIONS": [
-                        "At the end of your turn, deal damage to ALL enemies equal to your #yПрорицания.",
-                        "At the end of your turn, deal damage to ALL enemies equal to #b",
-                        " times your #yПрорицания."
+                        "В конце вашего хода наносит урон равный #yПрорицанию ВСЕМ врагам.",
+                        "В конце вашего хода наносит урон равный #b",
+                        " умноженное на #yПрорицание ВСЕМ врагам."
                 ]
         },
         "theEphemeral:DarkContractPower": {
-                "NAME": "Dark Contract",
+                "NAME": "Темный контракт",
                 "DESCRIPTIONS": [
-                        "Whenever you gain #yПрорицания, gain ",
-                        "and lose #b",
-                        " life."
+                        "При получении #yПрорицания даёт ",
+                        "и отнимает #b",
+                        " ОЗ."
                 ]
         },
         "theEphemeral:SoothsayerPower": {
-                "NAME": "Soothsayer",
+                "NAME": "Гадалка",
                 "DESCRIPTIONS": [
-                        "An additional #b",
-                        " card may trigger #yFated this turn. #yFated effects are #b",
-                        " cards may trigger #yFated this turn. #yFated effects are #b",
-                        " times stronger."
+                        "Дополнительно #b",
+                        " карт могут активировать #yСудьба в этом ходу. #yСудьбоносные эффекты в #b",
+                        " карт могут активировать #yСудьба в этом ходу. #yСудьбоносные эффекты в #b",
+                        " раза сильнее."
                 ]
         },
         "theEphemeral:GrimResolvePower": {
-                "NAME": "Grim Resolve",
+                "NAME": "Мрачная решимость",
                 "DESCRIPTIONS": [
-                        "Whenever you would lose life, lose #b",
-                        " less."
+                        "При потере ОЗ вы теряете на #b",
+                        " меньше."
                 ]
         },
         "theEphemeral:ReturnToAetherPower": {
-                "NAME": "Return to Aether",
+                "NAME": "Возвращение к Эфиру",
                 "DESCRIPTIONS": [
-                        "At the end of your turn, #yExhaust ALL cards in your hand."
+                        "В конце вашего хода #yСжигает ВСЕ карты в руке."
                 ]
         },
         "theEphemeral:ChaosRiftPower": {
-                "NAME": "Chaos Rift",
+                "NAME": "Ущелье хаоса",
                 "DESCRIPTIONS": [
-                        "Increase the #yEntropy bonus by #b",
+                        "Увеличивает бонус #yЭнтропии на #b",
                         "."
                 ]
         },
