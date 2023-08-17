@@ -128,7 +128,7 @@
   },
   "theEphemeral:Subsume": {
     "NAME": "Пожрать",
-    "DESCRIPTION": "Наносит !D! урона. NL  Даёт !M! Здоровья, если Казнит врага."
+    "DESCRIPTION": "Наносит !D! урона. NL  Восполняет !M! ОЗ, если Казнит врага."
   },
 
   "theEphemeral:TimeSkip": {
